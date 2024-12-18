@@ -1,4 +1,4 @@
-# Overview of the Google Maps SDK for Android <img src="https://github.com/user-attachments/assets/61b6551e-80b0-4966-b0b3-fdb234e481dd" alt="image" width="30" height="30"/>
+# Google Maps SDK for Android <img src="https://github.com/user-attachments/assets/61b6551e-80b0-4966-b0b3-fdb234e481dd" alt="image" width="30" height="30"/>
 
 The **Google Maps SDK for Android** is a set of libraries and tools provided by Google to help developers integrate and customize maps directly into their Android applications. Leveraging the familiarity and reliability of Google Maps, this SDK makes it straightforward to display interactive maps, add markers and overlays, calculate routes, and respond to user gestures like taps and pinches. By integrating the SDK, you can offer your users a seamless mapping experience.
 
