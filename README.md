@@ -4,25 +4,25 @@ The **Google Maps SDK for Android** is a set of libraries and tools provided by 
 
 ## Advantages <img src="https://github.com/user-attachments/assets/f30e3c55-b747-463d-a714-b0b378934ff4" alt="image" width="25" height="25"/>
 
-1. **Rich Feature Set**:  
+1. **Rich Feature Set**  
 
-2. **Ease of Integration**:  
+2. **Ease of Integration**  
 
-3. **Familiar User Experience**:  
+3. **Familiar User Experience**  
 
-4. **Constant Updates and Improvements**:  
+4. **Constant Updates and Improvements**  
 
-5. **Offline Functionality (Caching)**:  
+5. **Offline Functionality (Caching)**  
 
 ## Disadvantages <img src="https://github.com/user-attachments/assets/e1a93451-715a-4bab-ac10-cc7246046868" alt="image" width="25" height="25"/>
 
-1. **API Key and Billing Setup**:  
+1. **API Key and Billing Setup**  
 
-2. **Dependency on Google Play Services**:  
+2. **Dependency on Google Play Services**  
 
-3. **Limited Styling Options Compared to Web Maps**:  
+3. **Limited Styling Options Compared to Web Maps**  
 
-4. **Closed-Source Nature**:  
+4. **Closed-Source Nature**  
 
 ## License
 
