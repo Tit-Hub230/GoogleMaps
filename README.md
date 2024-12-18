@@ -18,11 +18,9 @@ The **Google Maps SDK for Android** is a set of libraries and tools provided by 
 
 1. **API Key and Billing Setup**  
 
-2. **Dependency on Google Play Services**  
+2. **Limited Styling Options Compared to Web Maps**  
 
-3. **Limited Styling Options Compared to Web Maps**  
-
-4. **Closed-Source Nature**  
+3. **Closed-Source Nature**  
 
 ## License
 
