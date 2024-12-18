@@ -76,8 +76,3 @@ My application helps users plan their trips by allowing them to visualize destin
 Below is a screenshot demonstrating how I’ve integrated Google Maps into the trip planning app.
 
 <img width="198" alt="image" src="https://github.com/user-attachments/assets/3988419b-fc0b-4ae2-8b72-40fafd6c0be4" />
-
-
----
-
-**Please Note:** To use the Google Maps SDK for Android, you must obtain an API key and follow all required steps outlined in the official [Getting Started guide](https://developers.google.com/maps/documentation/android-sdk/start). Ensure that you monitor your usage and configure appropriate limits to avoid unexpected billing charges.
