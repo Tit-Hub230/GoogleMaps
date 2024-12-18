@@ -1,8 +1,8 @@
-# Overview of the Google Maps SDK for Android
+# Overview of the Google Maps SDK for Android <img src="https://github.com/user-attachments/assets/61b6551e-80b0-4966-b0b3-fdb234e481dd" alt="image" width="30" height="30"/>
 
-The **Google Maps SDK for Android** is a set of libraries and tools provided by Google to help developers integrate and customize maps directly into their Android applications. Leveraging the familiarity and reliability of Google Maps, this SDK makes it straightforward to display interactive maps, add markers and overlays, calculate routes, and respond to user gestures like taps and pinches. By integrating the SDK, you can offer your users a seamless mapping experience without having to reinvent the wheel.
+The **Google Maps SDK for Android** is a set of libraries and tools provided by Google to help developers integrate and customize maps directly into their Android applications. Leveraging the familiarity and reliability of Google Maps, this SDK makes it straightforward to display interactive maps, add markers and overlays, calculate routes, and respond to user gestures like taps and pinches. By integrating the SDK, you can offer your users a seamless mapping experience.
 
-## Advantages
+## Advantages <img src="https://github.com/user-attachments/assets/f30e3c55-b747-463d-a714-b0b378934ff4" alt="image" width="25" height="25"/>
 
 1. **Rich Feature Set**:  
 
@@ -14,7 +14,7 @@ The **Google Maps SDK for Android** is a set of libraries and tools provided by 
 
 5. **Offline Functionality (Caching)**:  
 
-## Disadvantages
+## Disadvantages <img src="https://github.com/user-attachments/assets/e1a93451-715a-4bab-ac10-cc7246046868" alt="image" width="25" height="25"/>
 
 1. **API Key and Billing Setup**:  
 
@@ -31,7 +31,9 @@ The Google Maps SDK for Android is governed by the [Google Maps Platform Terms o
 ## Key Functionalities
 
 1. **Map Rendering and Display**:  
-   Easily embed a fully functional Google Map fragment within your layout. Users can pan, zoom, and toggle between map types (normal, satellite, terrain, hybrid).
+   Easily embed a fully functional Google Map fragment within your layout. Users can pan, zoom, and toggle between map types (normal, satellite, terrain, hybrid).  
+   <img width="633" alt="image" src="https://github.com/user-attachments/assets/08ec9b3f-3874-4b08-9c69-cb568f7d6cec" />  
+
 
    <img width="202" alt="image" src="https://github.com/user-attachments/assets/5d066ede-16c8-4e23-9e5d-16768ce17c2c" />
    <img width="202" alt="image" src="https://github.com/user-attachments/assets/eb1b98ef-e76a-4df4-9dd6-49c525fc8814" />
@@ -39,12 +41,14 @@ The Google Maps SDK for Android is governed by the [Google Maps Platform Terms o
 
 3. **Markers and Overlays**:  
    Add markers at specific coordinates, attach info windows to these markers, and use overlays (polylines, polygons, and ground overlays) to highlight particular areas of interest.
+   <img width="821" alt="image" src="https://github.com/user-attachments/assets/acae4890-68f4-42ee-b748-2375f39a1519" />  
 
    <img width="202" alt="image" src="https://github.com/user-attachments/assets/f3756d32-8347-4bc9-802d-344e123abc53" />
 
 
 4. **Customizable UI Elements**:  
    Control map UI components like the compass, zoom controls, and map toolbar. Adjust gestures (rotate, zoom, scroll) to suit your application’s needs.
+   <img width="848" alt="image" src="https://github.com/user-attachments/assets/eec15452-5ed3-46d8-8179-e854d027c3b5" />  
 
    <img width="202" alt="image" src="https://github.com/user-attachments/assets/28566938-1bd4-4b26-aa5c-8f97515613e8" />
 
