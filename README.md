@@ -26,7 +26,7 @@ The **Google Maps SDK for Android** is a set of libraries and tools provided by 
 
 ## License
 
-The Google Maps SDK for Android is governed by the [Google Maps Platform Terms of Service](https://developers.google.com/maps/terms), which must be accepted before integrating the SDK. While integrating the SDK is free up to certain usage limits, it’s critical to review the terms carefully and ensure compliance. Violation of these terms or usage beyond free tiers can lead to charges or service suspension.  
+The Google Maps SDK for Android is governed by the [Google Maps Platform Terms of Service](https://developers.google.com/maps/terms), which must be accepted before integrating the SDK, as well the Apache License 2.0. While integrating the SDK is free up to certain usage limits, it’s critical to review the terms carefully and ensure compliance. Violation of these terms or usage beyond free tiers can lead to charges or service suspension.  
 
 ## Updates:  
 Last update: 06.12.2024  
